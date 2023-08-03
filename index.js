@@ -20,7 +20,7 @@ const app = express();
 
 // Configure CORS(prod)
 const corsOptions = {
-  origin: "https://inspiring-squirrel-e515f6.netlify.app/", // specify the exact origin
+  origin: "https://inspiring-squirrel-e515f6.netlify.app", // specify the exact origin
 };
 
 // middleware
